@@ -1,0 +1,6 @@
+package com.test.bg_download_test
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
